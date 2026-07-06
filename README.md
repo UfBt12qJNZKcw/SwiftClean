@@ -13,6 +13,10 @@
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-green"></a>
 </p>
 
+<p align="center">
+  <img src="docs/screenshot.png" width="620" alt="SwiftClean — scan results">
+</p>
+
 ---
 
 SwiftClean frees up disk space by removing the junk Windows and your browsers pile up
