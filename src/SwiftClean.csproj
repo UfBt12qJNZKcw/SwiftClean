@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>SwiftClean</AssemblyName>
+    <RootNamespace>SwiftClean</RootNamespace>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Deterministic>true</Deterministic>
+    <Product>SwiftClean</Product>
+    <AssemblyTitle>SwiftClean — Очистка компьютера</AssemblyTitle>
+    <Company>SwiftClean</Company>
+    <FileVersion>1.0.2.0</FileVersion>
+    <Version>1.0.2</Version>
+    <NeutralLanguage>ru-RU</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
