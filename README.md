@@ -11,10 +11,19 @@
   <img alt="Runtime" src="https://img.shields.io/badge/.NET%20Framework-4.8-512bd4">
   <img alt="Size" src="https://img.shields.io/badge/size-~60%20KB-blue">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-green"></a>
+  <a href="https://t.me/windows_free_software"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@windows__free__software-229ED9?logo=telegram&logoColor=white"></a>
 </p>
 
 <p align="center">
   <img src="docs/screenshot.png" width="620" alt="SwiftClean — scan results">
+</p>
+
+<p align="center">
+  🌐 <b><a href="https://swiftcleanpc.com">swiftcleanpc.com</a></b>
+  &nbsp;·&nbsp;
+  💬 <b><a href="https://t.me/windows_free_software">Telegram — @windows_free_software</a></b>
+  &nbsp;·&nbsp;
+  <a href="https://sourceforge.net/projects/swiftclean/">SourceForge</a>
 </p>
 
 ---
@@ -83,6 +92,11 @@ Because the **entire source is in this repository**, you can read exactly what i
 and build it yourself. Code signing is planned, which will remove the SmartScreen prompt.
 If your browser blocks the download, it's a reputation warning for a new app — not a virus.
 
+## More free Windows software
+
+New releases, more free tools, guides and fixes go out in our Telegram channel:
+**[@windows_free_software](https://t.me/windows_free_software)** — a hub of clean, free Windows utilities with official downloads via GitHub and SourceForge.
+
 ## License
 
 [MIT](LICENSE) — do whatever you like with it.
@@ -109,5 +123,8 @@ If your browser blocks the download, it's a reputation warning for a new app —
 
 **Скачать:** [последний релиз](https://github.com/UfBt12qJNZKcw/SwiftClean/releases/latest) →
 `SwiftClean.zip` → распаковать → запустить `SwiftClean.exe` → «Сканировать», затем «Очистить».
+
+**Больше бесплатного софта для Windows** — наш Telegram-канал
+**[@windows_free_software](https://t.me/windows_free_software)**: новые релизы, чистые бесплатные утилиты, официальные загрузки через GitHub и SourceForge.
 
 </details>
