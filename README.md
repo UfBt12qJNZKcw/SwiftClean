@@ -30,7 +30,7 @@
 
 SwiftClean frees up disk space by removing the junk Windows and your browsers pile up
 over time — temporary files, caches, crash dumps, the Recycle Bin. It's a single
-**~60 KB executable**: no installer, no background service, no runtime to download
+**Signed MSI installer**: no background service, no bundles, no telemetry
 (it uses the **.NET Framework 4.8** that ships with every modern Windows).
 
 ## Features
@@ -52,7 +52,7 @@ no fake "1000 registry errors detected" scare tactics.
 
 1. Download `SwiftClean.zip`
 2. Extract it (right‑click → *Extract All*)
-3. Run `SwiftClean.exe` — click **Scan**, then **Clean**
+3. Unzip and run `SwiftClean.msi` to install, then launch **SwiftClean** — click **Scan**, then **Clean**
 
 No installation. To remove it, just delete the file.
 
@@ -63,7 +63,7 @@ or phone home with your data. SwiftClean is the opposite:
 
 | | SwiftClean |
 |---|---|
-| **Size** | One ~60 KB `.exe` |
+| **Size** | Signed `.msi` installer |
 | **Ads / bundles** | None |
 | **Telemetry** | None — it makes no network connections at all |
 | **Fake "errors"** | None — real sizes only |
@@ -78,7 +78,7 @@ See **[BUILD.md](BUILD.md)**. In short:
 dotnet build src/SwiftClean.csproj -c Release
 ```
 
-Output is a single `SwiftClean.exe`.
+Output is a signed `SwiftClean.msi` installer.
 
 ## A note on antivirus false positives
 
@@ -122,7 +122,7 @@ New releases, more free tools, guides and fixes go out in our Telegram channel:
 освобождённое место. Реестр не трогает.
 
 **Скачать:** [последний релиз](https://github.com/UfBt12qJNZKcw/SwiftClean/releases/latest) →
-`SwiftClean.zip` → распаковать → запустить `SwiftClean.exe` → «Сканировать», затем «Очистить».
+`SwiftClean.zip` → распаковать → запустить `SwiftClean.msi` → «Сканировать», затем «Очистить».
 
 **Больше бесплатного софта для Windows** — наш Telegram-канал
 **[@windows_free_software](https://t.me/windows_free_software)**: новые релизы, чистые бесплатные утилиты, официальные загрузки через GitHub и SourceForge.
