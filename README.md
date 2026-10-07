@@ -1,6 +1,10 @@
-# SwiftClean — a lightweight junk-file sweep and Recycle-Bin-safe cleaner for aging Windows PCs
+# SwiftClean — a free PC cleaner for junk files, browser caches, and disk cleanup on Windows
 
-Old laptops get slow for a boring reason: gigabytes of temp files, browser caches, crash dumps, and Windows Update leftovers quietly pile up on the system drive. SwiftClean is a tiny free utility that scans those exact locations, shows you the real byte count found, and clears them in one click on Windows 10 and Windows 11. No account, no sign-up, no watermark on anything, and no background service lurking after cleanup.
+SwiftClean is a lightweight PC cleaner for Windows 10 and Windows 11 that scans the places where disk space actually goes missing — temp files, browser caches, crash dumps, Windows Update leftovers, and the Recycle Bin — and clears them in one click. It shows the real byte count found before cleanup, so you see exactly how many megabytes you get back. No account, no sign-up, no watermark on anything, and no background service lurking after cleanup.
+
+## Why use this as a PC cleaner?
+
+Most "cleaner" tools either bury the useful parts behind a paid tier or invent scary "1,000 problems detected" numbers to pressure an upgrade. SwiftClean does the opposite: it is a free, portable PC cleaner that lists the exact folders it will touch, reports honest sizes, and leaves your documents, saved logins, and installed programs alone.
 
 ## Download
 
